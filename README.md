@@ -1,5 +1,5 @@
+# Udacity Data Scientist Nanodegree
 # Starbucks Capstone Challenge
-# Project in Data Scientist Nanodegree of Udacity
 
 # 1. Motivation
 This is a the capstone project for Udacity's Data Scientist Nanodegree program. The challenge data set contains simplified/simulated data that mimics customer behavior on the Starbucks rewards mobile app.
